@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning RemixJS and ReactJS.
 - 😄 Pronouns: She/Her.
+
+
+## My Github Public Stats !
+
+<p align="center">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=miafate&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miafate&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
+</p>
