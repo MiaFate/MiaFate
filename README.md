@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her.
 
 
-## My Github Public Stats !
+## My Github Public Stats✨ !
 
 <p align="center">
   <img align="left" src = "https://github-readme-stats.vercel.app/api?username=miafate&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
