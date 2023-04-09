@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ReactJS with Typescript.
+- 🌱 I’m currently learning NextJS with Typescript.
 - 😄 Pronouns: She/Her.
 
 
